@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @anita Chandraraj Vishwakarma.
-- 👀 I’m interested in playing with codes and debug.
-- 🌱 I’m currently learning web development, Full Stack Java.
-- 💞️ I’m looking to collaborate with IT Company. 
-- 📫 How to reach me :- anitajayatri14@gamil.com
+## 👋 Hello, I'm Anita Chandraraj Vishwakarma
+🎓 Master's Student in Computer Science  
+💻 Full Stack Java Developer (Java, HTML, CSS, JavaScript, MySQL)  
+🌱 Continuously improving my skills in Frontend Development and Web Technologies  
+🔧 Experienced with Git & GitHub for version control  
+🤝 Seeking internship and entry-level opportunities in Software Development  
+📫 Contact: anitajayatri14@gmail.com
+
 
 <!---
 anita69cv/anita69cv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
