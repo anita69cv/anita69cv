@@ -3,7 +3,7 @@
 💻 Full Stack Java Developer (Java, HTML, CSS, JavaScript, MySQL)  
 🌱 Continuously improving my skills in Frontend Development and Web Technologies  
 🔧 Experienced with Git & GitHub for version control  
-🤝 Seeking internship and entry-level opportunities in Software Development  
+🤝 Full Stack Java Developer | GenAI & Python enthusiast  
 📫 Contact: anitajayatri14@gmail.com
 
 
