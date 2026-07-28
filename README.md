@@ -13,8 +13,11 @@
 📂 Projects:
 
 🚀 LifeSync – A Flask-based productivity and habit tracking web application.
+
 🌐 Portfolio Website – A personal portfolio showcasing my skills, projects, resume, and contact information.
+
 📈 Data Analytics Projects – SQL, Excel, Power BI, and Python projects (coming soon).
+
 🎯 Open to Data Analyst, Business Analyst, MIS Executive, and Reporting Analyst opportunities.
 
 📫 Contact: **[anitajayatri14@gmail.com](mailto:anitajayatri14@gmail.com)**
