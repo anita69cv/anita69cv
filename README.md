@@ -1,13 +1,20 @@
-## 👋 Hello, I'm Anita Chandraraj Vishwakarma
-🎓 Master's Student in Computer Science  
-💻 Full Stack Java Developer (Java, HTML, CSS, JavaScript, MySQL)  
-🌱 Continuously improving my skills in Frontend Development and Web Technologies  
-🔧 Experienced with Git & GitHub for version control  
-🤝 Full Stack Java Developer | GenAI & Python enthusiast  
-📫 Contact: anitajayatri14@gmail.com
+# 👋 Hello, I'm Anita Chandraraj Vishwakarma
 
+🎓 M.Sc. in Computer Science
 
-<!---
-anita69cv/anita69cv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Aspiring Data Analyst | Python & SQL Enthusiast
+
+💡 Passionate about transforming data into meaningful insights through analysis and visualization.
+
+🌱 Currently strengthening my skills in SQL, Excel, Power BI, Python, and Data Visualization.
+
+🛠️ Skills: Python, SQL, Excel, Power BI, HTML, CSS, JavaScript, Flask, Git & GitHub
+
+📂 Projects:
+
+🚀 LifeSync – A Flask-based productivity and habit tracking web application.
+🌐 Portfolio Website – A personal portfolio showcasing my skills, projects, resume, and contact information.
+📈 Data Analytics Projects – SQL, Excel, Power BI, and Python projects (coming soon).
+🎯 Open to Data Analyst, Business Analyst, MIS Executive, and Reporting Analyst opportunities.
+
+📫 Contact: **[anitajayatri14@gmail.com](mailto:anitajayatri14@gmail.com)**
